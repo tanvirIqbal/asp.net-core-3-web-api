@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using CompanyEmployees.Extensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -39,8 +40,23 @@ namespace CompanyEmployees
             {
                 app.UseDeveloperExceptionPage();
             }
+            else 
+            { 
+                app.UseHsts(); 
+            }
 
             app.UseHttpsRedirection();
+            //It enables using static files for the request.
+            //If we don’t set a path to the static files directory,
+            //it will use a 'wwwroot' folder in our project by default.
+            app.UseStaticFiles(); 
+            app.UseCors("CorsPolicy");
+            //It will forward proxy headers to the current request. 
+            //This will help us during application deployment.
+            app.UseForwardedHeaders(new ForwardedHeadersOptions 
+            { 
+                ForwardedHeaders = ForwardedHeaders.All 
+            });
 
             app.UseRouting();
 
