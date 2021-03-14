@@ -1,0 +1,9 @@
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb

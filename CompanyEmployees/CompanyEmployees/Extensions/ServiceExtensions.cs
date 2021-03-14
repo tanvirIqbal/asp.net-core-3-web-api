@@ -1,4 +1,9 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using Contracts;
+using Entities;
+using LoggerService;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -24,5 +29,12 @@ namespace CompanyEmployees.Extensions
          
          */
         public static void ConfigureIISIntegration(this IServiceCollection services) => services.Configure<IISOptions>(options => { });
+
+        public static void ConfigureLoggerService(this IServiceCollection services) => services.AddScoped<ILoggerManager, LoggerManager>();
+
+        public static void ConfigureSqlContext(this IServiceCollection services, IConfiguration configuration) => 
+            services.AddDbContext<RepositoryContext>(opts => 
+            opts.UseSqlServer(configuration.GetConnectionString("sqlConnection"), b => 
+            b.MigrationsAssembly("CompanyEmployees")));
     }
 }
