@@ -1,0 +1,14 @@
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

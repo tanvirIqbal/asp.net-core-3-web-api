@@ -70,3 +70,5 @@ E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\net
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Humanizer.dll
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Repository.dll
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Repository.pdb

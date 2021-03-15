@@ -1579,6 +1579,21 @@
         "runtime": {
           "bin/placeholder/LoggerService.dll": {}
         }
+      },
+      "Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Contracts": "1.0.0",
+          "Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.4"
+        },
+        "compile": {
+          "bin/placeholder/Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.dll": {}
+        }
       }
     }
   },
@@ -5921,6 +5936,11 @@
       "type": "project",
       "path": "../LoggerService/LoggerService.csproj",
       "msbuildProject": "../LoggerService/LoggerService.csproj"
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5928,7 +5948,8 @@
       "Entities >= 1.0.0",
       "LoggerService >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.4",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.4"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.4",
+      "Repository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5967,6 +5988,9 @@
             },
             "E:\\Github\\asp.net-core-3-web-api\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
               "projectPath": "E:\\Github\\asp.net-core-3-web-api\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
+            },
+            "E:\\Github\\asp.net-core-3-web-api\\CompanyEmployees\\Repository\\Repository.csproj": {
+              "projectPath": "E:\\Github\\asp.net-core-3-web-api\\CompanyEmployees\\Repository\\Repository.csproj"
             }
           }
         }
