@@ -10,3 +10,5 @@ E:\Github\asp.net-core-3-web-api\CompanyEmployees\LoggerService\obj\Debug\netcor
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb

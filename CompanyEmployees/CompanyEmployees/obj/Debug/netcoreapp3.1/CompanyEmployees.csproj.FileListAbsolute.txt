@@ -17,8 +17,6 @@ E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\net
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csprojAssemblyReference.cache
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.AssemblyInfoInputs.cache
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.AssemblyInfo.cs
-E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CoreCompileInputs.cache
-E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.RazorTargetAssemblyInfo.cache
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CopyComplete
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\staticwebassets\CompanyEmployees.StaticWebAssets.Manifest.cache
@@ -72,3 +70,7 @@ E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\net
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Entities.pdb
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Repository.dll
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CoreCompileInputs.cache
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache

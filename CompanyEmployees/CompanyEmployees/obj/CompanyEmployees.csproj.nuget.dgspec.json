@@ -31,9 +31,6 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Github\\asp.net-core-3-web-api\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "E:\\Github\\asp.net-core-3-web-api\\CompanyEmployees\\Entities\\Entities.csproj"
-              },
               "E:\\Github\\asp.net-core-3-web-api\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
                 "projectPath": "E:\\Github\\asp.net-core-3-web-api\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
               },
@@ -52,6 +49,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.4, )"
@@ -111,7 +112,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Github\\asp.net-core-3-web-api\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Github\\asp.net-core-3-web-api\\CompanyEmployees\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

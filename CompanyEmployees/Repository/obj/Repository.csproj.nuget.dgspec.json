@@ -30,7 +30,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Github\\asp.net-core-3-web-api\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Github\\asp.net-core-3-web-api\\CompanyEmployees\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

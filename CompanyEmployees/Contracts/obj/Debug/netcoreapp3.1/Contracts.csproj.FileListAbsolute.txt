@@ -7,3 +7,6 @@ E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\obj\Debug\netcoreapp
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete
