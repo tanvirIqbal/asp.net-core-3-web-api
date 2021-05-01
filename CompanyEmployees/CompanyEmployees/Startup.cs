@@ -36,7 +36,11 @@ namespace CompanyEmployees
             services.ConfigureLoggerService();
             services.ConfigureSqlContext(Configuration);
             services.ConfigureRepositoryManager();
-            services.AddControllers();
+            services.AddControllers(config => 
+            { 
+                config.RespectBrowserAcceptHeader = true; // Any valid cntent is considered defined in header
+                config.ReturnHttpNotAcceptable = true; // Return 406 if not valid header
+            }).AddXmlDataContractSerializerFormatters();
             services.AddAutoMapper(typeof(Startup));
         }
 

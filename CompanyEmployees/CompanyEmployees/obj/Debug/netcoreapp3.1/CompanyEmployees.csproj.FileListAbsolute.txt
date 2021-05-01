@@ -1,7 +1,6 @@
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\nlog.config
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\appsettings.json
-E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\CompanyEmployees.exe
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\CompanyEmployees.deps.json
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\CompanyEmployees.runtimeconfig.json
@@ -74,3 +73,4 @@ E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\net
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.csproj.CoreCompileInputs.cache
 E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cache
+E:\Github\asp.net-core-3-web-api\CompanyEmployees\CompanyEmployees\obj\Debug\netcoreapp3.1\scopedcss\bundle\CompanyEmployees.styles.css

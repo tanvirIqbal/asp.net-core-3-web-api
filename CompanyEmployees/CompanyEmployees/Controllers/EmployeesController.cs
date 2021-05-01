@@ -54,7 +54,8 @@ namespace CompanyEmployees.Controllers
                 _logger.LogInfo($"Employee with id: {id} doesn't exist in the database."); 
                 return NotFound(); 
             } 
-            var employee = _mapper.Map<EmployeeDto>(employeeDb); return Ok(employee); 
+            var employee = _mapper.Map<EmployeeDto>(employeeDb); 
+            return Ok(employee); 
         }
     }
 }
